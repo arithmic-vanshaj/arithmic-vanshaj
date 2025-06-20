@@ -62,6 +62,7 @@
 - LLM usege in blockchain systems
 - Ideating on different approaches to handle speed issues.
 
+Public contributions
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arithmic-vanshaj)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---

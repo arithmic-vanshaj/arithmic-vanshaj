@@ -57,9 +57,12 @@
 ---
 
 ### 🌱 Currently Exploring
-- Compiler design for ZK backends  
-- OAuth2 flows + LangChain agent orchestration  
-- Scaling LLM applications in Web3 ecosystems  
+- A2A protocol and implementation
+- LLM usege with RAG in different products
+- LLM usege in blockchain systems
+- Ideating on different approaches to handle speed issues.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arithmic-vanshaj)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 arithmic-vanshaj/arithmic-vanshaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
